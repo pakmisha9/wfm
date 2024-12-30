@@ -8,6 +8,7 @@ export default defineNuxtConfig({
       name: "wfm-app",
       short_name: "wfm",
       description: "description",
+      start_url: "/",
       theme_color: "#000",
       icons: [
         {
