@@ -3,9 +3,13 @@
 </script>
 
 <template>
-  <NuxtWelcome />
+ <h1 style="color: white; text-align: center;">
+   WFM
+ </h1>
 </template>
 
-<style scoped>
-
+<style>
+body{
+  background-color: black;
+}
 </style>
